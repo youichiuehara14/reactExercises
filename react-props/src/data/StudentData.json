@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Alice Johnson",
+    "age": 20,
+    "collegeYearLevel": "Sophomore",
+    "isEnrolled": true,
+    "course": "Computer Science"
+  },
+  {
+    "name": "Bob Smith",
+    "age": 22,
+    "collegeYearLevel": "Senior",
+    "isEnrolled": true,
+    "course": "Mechanical Engineering"
+  },
+  {
+    "name": "Catherine Lee",
+    "age": 19,
+    "collegeYearLevel": "Freshman",
+    "isEnrolled": true,
+    "course": "Biology"
+  },
+  {
+    "name": "Daniel Brown",
+    "age": 21,
+    "collegeYearLevel": "Junior",
+    "isEnrolled": true,
+    "course": "Business Administration"
+  },
+  {
+    "name": "Emily Davis",
+    "age": 23,
+    "collegeYearLevel": "Senior",
+    "isEnrolled": false,
+    "course": "Psychology"
+  },
+  {
+    "name": "Frank Wilson",
+    "age": 20,
+    "collegeYearLevel": "Sophomore",
+    "isEnrolled": true,
+    "course": "Electrical Engineering"
+  },
+  {
+    "name": "Grace Martinez",
+    "age": 18,
+    "collegeYearLevel": "Freshman",
+    "isEnrolled": true,
+    "course": "Nursing"
+  },
+  {
+    "name": "Henry Taylor",
+    "age": 21,
+    "collegeYearLevel": "Junior",
+    "isEnrolled": true,
+    "course": "Physics"
+  },
+  {
+    "name": "Isabella Anderson",
+    "age": 22,
+    "collegeYearLevel": "Senior",
+    "isEnrolled": true,
+    "course": "Mathematics"
+  },
+  {
+    "name": "Jack Thomas",
+    "age": 19,
+    "collegeYearLevel": "Sophomore",
+    "isEnrolled": false,
+    "course": "History"
+  },
+  {
+    "name": "Karen Moore",
+    "age": 20,
+    "collegeYearLevel": "Junior",
+    "isEnrolled": true,
+    "course": "Chemistry"
+  },
+  {
+    "name": "Liam White",
+    "age": 18,
+    "collegeYearLevel": "Freshman",
+    "isEnrolled": true,
+    "course": "Political Science"
+  },
+  {
+    "name": "Mia Harris",
+    "age": 21,
+    "collegeYearLevel": "Senior",
+    "isEnrolled": true,
+    "course": "Economics"
+  },
+  {
+    "name": "Nathan Clark",
+    "age": 23,
+    "collegeYearLevel": "Senior",
+    "isEnrolled": false,
+    "course": "Philosophy"
+  },
+  {
+    "name": "Olivia Lewis",
+    "age": 19,
+    "collegeYearLevel": "Sophomore",
+    "isEnrolled": true,
+    "course": "Art History"
+  },
+  {
+    "name": "Patrick Walker",
+    "age": 20,
+    "collegeYearLevel": "Junior",
+    "isEnrolled": true,
+    "course": "Environmental Science"
+  },
+  {
+    "name": "Quinn Hall",
+    "age": 18,
+    "collegeYearLevel": "Freshman",
+    "isEnrolled": true,
+    "course": "Sociology"
+  },
+  {
+    "name": "Rachel Allen",
+    "age": 22,
+    "collegeYearLevel": "Senior",
+    "isEnrolled": true,
+    "course": "Anthropology"
+  },
+  {
+    "name": "Samuel Young",
+    "age": 21,
+    "collegeYearLevel": "Junior",
+    "isEnrolled": true,
+    "course": "Civil Engineering"
+  },
+  {
+    "name": "Tina King",
+    "age": 19,
+    "collegeYearLevel": "Sophomore",
+    "isEnrolled": false,
+    "course": "Journalism"
+  }
+]
